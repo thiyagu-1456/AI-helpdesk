@@ -1,0 +1,22 @@
+IT TROUBLESHOOTING KNOWLEDGE BASE
+
+Wi-Fi Problem:
+If the computer is connected to Wi-Fi but websites are not opening, check the internet connection, DNS configuration, network adapter, and router connection.
+
+Printer Problem:
+If the printer is offline, check whether the printer is powered on, connected to the network, and configured as the default printer. Restarting the printer service may also help.
+
+Computer Slow:
+If a computer is running slowly, check CPU usage, memory usage, unnecessary background applications, available storage space, and startup programs.
+
+Login Problem:
+If a user cannot log in, verify the username and password. Check whether the account is locked and use the organization's password recovery procedure if necessary.
+
+Software Error:
+If an application is not working, restart the application, check for updates, verify configuration settings, and reinstall the application if required.
+
+DNS Problem:
+If websites cannot be accessed but the network connection is active, check DNS settings and clear the DNS cache.
+
+Network Problem:
+Check the network cable or Wi-Fi connection, restart the network adapter, and test connectivity using a network diagnostic command.

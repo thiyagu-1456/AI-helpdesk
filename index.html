@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI IT Helpdesk</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+            <h1>🤖 AI IT Helpdesk</h1>
+            <p>Agent + RAG + Tools</p>
+        </header>
+
+        <div id="chat-box" class="chat-box">
+
+            <div class="message bot">
+                <strong>AI Helpdesk:</strong>
+                <p>
+                    Hello! 👋 I'm your AI IT Helpdesk Agent.
+                    Tell me about your technical problem.
+                </p>
+            </div>
+
+        </div>
+
+        <div class="input-area">
+
+            <input type="text" id="user-input" placeholder="Describe your IT problem..."
+                onkeypress="handleKeyPress(event)">
+
+            <button onclick="sendMessage()">
+                Send
+            </button>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
